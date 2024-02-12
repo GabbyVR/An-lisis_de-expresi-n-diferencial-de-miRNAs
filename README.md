@@ -35,4 +35,8 @@ DROSHA, Exportin 5 y DICER en la biogénesis de microARN” (SRP070429).
 
 Luego con los resultados de sRNAbench se analizaron los resultados con sRNAde, en donde se tuvo que anotar los grupos a los que pertenecen cada muestra. Se ejecuto sRNAde y se obtuvo una lista de miRNAs infra y sobreexpresados los cuales fueron estudiados usando herramientas como miRBase y miRPath.
 
+![](https://i.postimg.cc/6Qdkz989/Imagen-2.png)
+###### Lista de los run del estudio en Run Selector
+
+
 
