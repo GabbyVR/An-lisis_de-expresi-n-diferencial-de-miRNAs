@@ -30,4 +30,9 @@ secuenciación de miRNAs, y see seleccionó el estudio “Reevaluación de los r
 DROSHA, Exportin 5 y DICER en la biogénesis de microARN” (SRP070429).
 
 ![](https://i.postimg.cc/mrfxQc2X/Imagen-1.png)
+###### Selección del estudio en la base de datos Sequence Read Archive
+
+
+Luego con los resultados de sRNAbench se analizaron los resultados con sRNAde, en donde se tuvo que anotar los grupos a los que pertenecen cada muestra. Se ejecuto sRNAde y se obtuvo una lista de miRNAs infra y sobreexpresados los cuales fueron estudiados usando herramientas como miRBase y miRPath.
+
 
