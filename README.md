@@ -28,3 +28,6 @@ sapiens para casos de alguna patología en específico.
 Al explorar la base de datos SRA se pudo observar numerosos estudios de
 secuenciación de miRNAs, y see seleccionó el estudio “Reevaluación de los roles de
 DROSHA, Exportin 5 y DICER en la biogénesis de microARN” (SRP070429).
+
+![](https://i.postimg.cc/mrfxQc2X/Imagen-1.png)
+
