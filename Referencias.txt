@@ -1,0 +1,18 @@
+Referencias:
+1. Ha M, Kim VN. Regulation of microRNA biogenesis. Nat Rev Mol Cell Biol. agosto
+de 2014;15(8):509-24.
+
+2. Kim YK, Kim B, Kim VN. Re-evaluation of the roles of DROSHA, Exportin 5, and
+DICER in microRNA biogenesis. Proc Natl Acad Sci U S A. 29 de marzo de
+2016;113(13):E1881-9.
+
+3. Lee Y, Ahn C, Han J, Choi H, Kim J, Yim J, et al. The nuclear RNase III Drosha initiates
+microRNA processing. Nature. 25 de septiembre de 2003;425(6956):415-9.
+
+4. Xie M, Li M, Vilborg A, Lee N, Shu MD, Yartseva V, et al. Mammalian 5’-capped
+microRNA precursors that generate a single microRNA. Cell. 19 de diciembre de
+2013;155(7):1568-80.
+
+5. Chen Q, Qiu F, Zhou K, Matlock HG, Takahashi Y, Rajala RV, Yang Y, Moran E, Ma
+JX. Pathogenic role of microRNA-21 in diabetic retinopathy through
+downregulation of PPARα. Diabetes. 2017 Jun 1;66(6):1671-82.
